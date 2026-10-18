@@ -1,4 +1,36 @@
 /* Configuração Geral */
+
+/* Seção Projetos */
+#projetos {
+    text-align: center;
+    padding: 30px 20px;
+    margin: 30px auto;
+    background-color: #dddddd;
+    border-radius: 12px;
+}
+
+.projeto {
+    background-color: white;
+    padding: 20px;
+    margin: 20px auto;
+    border-radius: 8px;
+    border: 1px solid #aaa;
+}
+
+.projeto a {
+    display: inline-block;
+    background-color: #222;
+    color: white;
+    padding: 12px 20px;
+    border-radius: 8px;
+    text-decoration: none;
+}
+
+.projeto a:hover {
+    background-color: #45696b;
+   
+
+}
 * {
     box-sizing: border-box;
 }
